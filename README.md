@@ -35,5 +35,7 @@ python app.py
 - minimum wage
 
 3.Click 🔍 Find
+
 4.Double-click → open vacancy
+
 5.💾 CSV → save results
