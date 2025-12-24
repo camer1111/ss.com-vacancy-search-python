@@ -70,7 +70,7 @@ job_monitor/
   
 - Requests
   
--BeautifulSoup
+- BeautifulSoup
 
 - Tkinter
 
