@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/code%20style-python-green)
 ![](https://img.shields.io/github/stars/mscbuild)
 ![](https://img.shields.io/badge/Topic-Github-lighred)
-![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+![](https://img.shields.io/website?url=https://github.com/mscbuild)
 
 A full-fledged GUI application in Python (Tkinter) with ALL the requested improvements:
 
