@@ -39,3 +39,25 @@ python app.py
 4.Double-click → open vacancy
 
 5.💾 CSV → save results
+
+# 🧰 Technologies Used
+
+- tkinter — GUI
+
+- requests
+
+- beautifulsoup4
+
+- webbrowser
+
+ # ⚠️ Important to remember
+
+🔸 Don't run it too often (set time.sleep)
+
+🔸 The site structure may change
+
+🔸 Use it only for training/personal projects
+
+# License
+
+This project is licensed under the MIT License.
