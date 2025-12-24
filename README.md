@@ -1,4 +1,4 @@
-# ss.com-vacances-search-python
+# ss.com-vacancy-search-python
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/ss.com-vacances-search-python) 
  ![](https://img.shields.io/github/languages/code-size/mscbuild/ss.com-vacances-search-python)
