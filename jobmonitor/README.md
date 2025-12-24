@@ -37,7 +37,9 @@ job_monitor/
     └── vacancies.csv
 ~~~
 
-# ⚙️ 2️⃣ config.py —Settings
+## Settings (structure)
+
+# ⚙️ 2️⃣ config.py  
 
 ~~~bash
 BASE_URL = "https://www.ss.com"
@@ -58,6 +60,7 @@ CHECK_INTERVAL = 1800  # 30 минут
 # 📩 5️⃣ telegram_bot.py
 
 # 🖥️ 6️⃣ app.py — GUI + automatic verification
+
 
 ## Features
 
@@ -93,6 +96,10 @@ python app.py
 ~~~
 
 ## 🏗️ 5️⃣ Build into a single EXE
+
+~~~bash
+pyinstaller --onefile --windowed app.py
+~~~
 
 # License
 
