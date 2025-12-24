@@ -38,6 +38,7 @@ if __name__ == "__main__":
     vacancy_list = fetch_ss_com_vacancies()
     
     if not vacancy_list:
+
         print("Вакансий не найдено или ошибка парсинга.")
     else:
         print(f"Найдено {len(vacancy_list)} вакансий:\n")
