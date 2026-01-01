@@ -10,8 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
+      - name: ⤵️ Check out repository code
         uses: actions/checkout@v4
       
-      - name: Run a script
+      - name: 🚀 Run a script
         run: echo "Hello, GitHub Actions 2026! Permissions are secured."
