@@ -8,7 +8,9 @@
 ![](https://img.shields.io/badge/Topic-Github-lighred)
 ![](https://img.shields.io/website?url=https://github.com/mscbuild)
 
-A full-fledged GUI application in Python (Tkinter) with ALL the requested improvements:
+In this guide, you'll learn how to build a job scraper in Python. We'll focus on scraping job postings from Indeed, but the same approach can be applied to other job sites. A full-fledged GUI application in Python (Tkinter) with ALL the requested improvements:
+
+> Before jumping into coding, you should familiarize yourself with the job posting site you plan to scrape. The goal is to determine the best web scraping tools for effectively extracting data from it.
 
 ✅ Keyword search
 
